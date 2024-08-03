@@ -1,9 +1,9 @@
 
 
 
-curl -LO https://github.com/varmakollu/CloudSkill/blob/main/APIs%20Explorer%20Cloud%20Storage/demo-image1-copy.png
-curl -LO https://github.com/varmakollu/CloudSkill/blob/main/APIs%20Explorer%20Cloud%20Storage/demo-image1.png
-curl -LO https://github.com/varmakollu/CloudSkill/blob/main/APIs%20Explorer%20Cloud%20Storage/demo-image2.png
+curl -LO https://github.com/TechHack3/Google-Arcade-Program-2024/blob/main/APIs%20Explorer%20Cloud%20Storage/demo-image1-copy.png
+curl -LO https://github.com/TechHack3/Google-Arcade-Program-2024/blob/main/APIs%20Explorer%20Cloud%20Storage/demo-image1.png
+curl -LO https://github.com/TechHack3/Google-Arcade-Program-2024/blob/main/APIs%20Explorer%20Cloud%20Storage/demo-image2.png
 
 
 gcloud alpha services api-keys create --display-name="tutorialboy"  
