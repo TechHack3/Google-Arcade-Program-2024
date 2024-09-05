@@ -1,9 +1,4 @@
-# Create a Secure Data Lake on Cloud Storage: Challenge Lab || [ARC119](https://www.cloudskillsboost.google/focuses/63857?parent=catalog) ||
-
-* **Note Before Starting The Execution Check and Match Your `Task 1 & Task 4` From Below and Your Instrution page..**
----
-
-### For form 1: Solution [here]()
+# Create a Secure Data Lake on Cloud Storage: Challenge Lab 
 ---
 
 * **Task 1. Create a Cloud Storage bucket.**
@@ -11,13 +6,11 @@
 * **Task 3. Environment Creation for Dataplex Lake.**
 * **Task 4. Create a tag template (Storage bucket).**
 
-### Run the following Commands in CloudShell
-
 ```
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/form1.sh
+curl -LO raw.githubusercontent.com/Google-Arcade-Program-2024/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/form1.sh
 
 sudo chmod +x form1.sh
 
@@ -27,21 +20,14 @@ sudo chmod +x form1.sh
 * **Now check your progress, You will get score for all tasks...**
 ---
 
-### For form 2: Solution [here]()
+### For form 2: Solution
 ---
-
-* **Task 1. Create a lake in Dataplex and add a zone to your .**
-* **Task 2. Environment Creation for Dataplex .**
-* **Task 3. Attach an existing Cloud Storage bucket to the zone.**
-* **Task 4. Create a tag template (Storage bucket).**
-
-### Run the following Commands in CloudShell
 
 ```
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/form2.sh
+curl -LO raw.githubusercontent.com/Google-Arcade-Program-2024/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/form2.sh
 
 sudo chmod +x form2.sh
 
@@ -51,13 +37,7 @@ sudo chmod +x form2.sh
 * **Now check your progress, You will get score for all tasks..**
 ---
 
-### For form 3: Solution [here]()
----
-
-* **Task 1. Create a BigQuery dataset.**
-* **Task 2. Add a zone to your lake.**
-* **Task 3. Attach an existing BigQuery Dataset to the Lake.**
-* **Task 4. Create a tag template (BigQuery Dataset).**
+### For form 3: Solution
 
 ### Run the following Commands in CloudShell
 
@@ -65,7 +45,7 @@ sudo chmod +x form2.sh
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/form3.sh
+curl -LO raw.githubusercontent.com/Google-Arcade-Program-2024/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/form3.sh
 
 sudo chmod +x form3.sh
 
@@ -75,35 +55,16 @@ sudo chmod +x form3.sh
 * **For Task 4. Follow Video's Instruction from [here]()**
 ---
 
-### For form 4: Solution [here](https://youtu.be/tK9bk6wG0aQ)
----
+### For form 4: Solution 
 
-* **Task 1. Create a lake in Dataplex and add a zone to your lake.**
-* **Task 2. Attach an existing Cloud Storage bucket to the zone.**
-* **Task 3. Attach an existing BigQuery Dataset to the Lake.**
-* **Task 4. Create Entities.**
-
-### Run the following Commands in CloudShell
 
 ```
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/form4.sh
+curl -LO raw.githubusercontent.com/Google-Arcade-Program-2024/main/Create%20a%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/form4.sh
 
 sudo chmod +x form4.sh
 
 ./form4.sh
 ```
-
-* **For Task 4. Follow Video's Instruction from [here](https://youtu.be/tK9bk6wG0aQ?t=65)**
-
-### Congratulations 🎉 for completing the Lab !
-
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
