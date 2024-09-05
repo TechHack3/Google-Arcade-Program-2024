@@ -51,8 +51,6 @@ sudo chmod +x form3.sh
 
 ./form3.sh
 ```
-
-* **For Task 4. Follow Video's Instruction from [here]()**
 ---
 
 ### For form 4: Solution 
